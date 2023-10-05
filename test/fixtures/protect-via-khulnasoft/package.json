@@ -1,0 +1,19 @@
+{
+  "name": "@remy/protect-test",
+  "version": "1.0.4",
+  "description": "protect-test",
+  "main": "index.js",
+  "dependencies": {
+    "semver": "^2.3.2",
+    "khulnasoft": "^0.5.0"
+  },
+  "scripts": {
+    "env": "env",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "khulnasoft-protect": "khulnasoft protect -d",
+    "postinstall": "npm run khulnasoft-protect"
+  },
+  "author": "",
+  "license": "ISC",
+  "khulnasoft": true
+}

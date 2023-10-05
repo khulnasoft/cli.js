@@ -1,0 +1,1 @@
+The use of Khulnasoft's API, whether through the use of the 'khulnasoft' npm package or otherwise, is subject to the terms & conditions specified here: https://khulnasoft.com/policies/customer-agreement.pdf

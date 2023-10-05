@@ -1,0 +1,3 @@
+Usage: khulnasoft <command>
+
+See "khulnasoft --help" for more.
